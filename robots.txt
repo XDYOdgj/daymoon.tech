@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://daymoon.tech/sitemap.xml
